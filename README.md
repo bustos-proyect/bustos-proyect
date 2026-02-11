@@ -90,4 +90,7 @@ Mi objetivo es integrarme al sector industrial colombiano y global, aportando so
 ### 🔄 **Contador de Días hasta la Graduación**
 ![Días hasta Julio 2026](https://img.shields.io/badge/Días_para_graduarse-~150-dodgerblue?style=for-the-badge)
 
+
+
+
 </div>
