@@ -1,96 +1,82 @@
-# 👋 ¡Hola! Soy Dylan Bustos | Futuro Tecnólogo en Automatización & Robótica
+# Dylan Bustos Hernández | Tecnólogo en Automatización y Robótica Industrial
 
-🔧 **Estudiante de último semestre** – **Tecnología en Automatización y Robótica Industrial**  
-🏫 **Universidad ECCI** | 📍 Bogotá, Colombia  
-🎯 **Graduación:** Julio 2026 | **Disponibilidad:** Prácticas/Media Jornada (Inmediato) | Full-Time (Agosto 2026)  
-📧 **[dbustos.proyectos@gmail.com](mailto:dbustos.proyectos@gmail.com)**  
-🔗 **[LinkedIn](https://linkedin.com/in/tu-perfil)** | 📁 **Portafolio Técnico**
+**📍 Bogotá, Colombia** | **📧 dbustos.proyectos@gmail.com** | **🔗 LinkedIn**  
+**🎓 Universidad ECCI** | **📅 Graduación: Julio 2026**  
+**✅ Disponibilidad:** Prácticas/Media Jornada (Inmediato) | Full-Time (Agosto 2026)
 
 ---
 
-## 📋 Sobre Mí
+## 📋 Perfil 
 
-Soy un apasionado por la automatización industrial, la robótica y las energías renovables. Actualmente curso mi último semestre en la Universidad ECCI, donde he consolidado conocimientos sólidos en control de procesos, programación de PLC, diseño mecatrónico y sistemas automatizados.
+Tecnólogo en formación con sólidos conocimientos en **automatización industrial, control de procesos y robótica**. Especial interés en la integración de **energías renovables** con sistemas automatizados. Busco oportunidad de **prácticas profesionales o contrato de aprendizaje** para aplicar y desarrollar mis competencias técnicas mientras completo mi formación académica.
 
-Mi objetivo es integrarme al sector industrial colombiano y global, aportando soluciones innovadoras que combinen eficiencia energética, robótica colaborativa y automatización inteligente. Estoy en búsqueda activa de prácticas profesionales o contrato de aprendizaje donde pueda aplicar y expandir mis habilidades mientras completo mi formación.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-### 🤖 Automatización Industrial
-- **PLC:** Lógica ladder, programación básica en TIA Portal
-- **Sensores y Actuadores:** Integración y calibración básica
-- **Robótica Industrial:** Fundamentos de programación de robots
-
-### 💻 Programación y Herramientas
-- **Lenguajes:** Python (automatización de scripts), C++ (básico para microcontroladores)
-- **Microcontroladores:** Arduino, programación básica
-- **Diseño CAD:** SolidWorks (piezas, ensamblajes, planos básicos)
-- **Simulación:** MATLAB/Simulink (modelado básico de sistemas)
-
-### 🌱 Áreas de Interés
-- **Energía Solar Fotovoltaica**
-- **Energía Eólica** 
-- **Eficiencia Energética**
+**Palabras clave:** PLC, Automatización Industrial, Robótica, Control de Procesos, Energías Renovables, SCADA, Sensores, Actuadores, CAD/CAM.
 
 ---
 
-## 🏆 Badges de Tecnologías
+## 🛠️ Competencias Técnicas
 
-![PLC](https://img.shields.io/badge/PLC-Ladder_Logic-blue)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-Dassault_Systemes-red)
-![MATLAB](https://img.shields.io/badge/MATLAB-Mathworks-orange)
+### **Control y Automatización**
+- **PLC:** Programación en lógica ladder, entorno TIA Portal (Siemens)
+- **Sensores y Actuadores:** Selección, integración y calibración básica
+- **Robótica Industrial:** Fundamentos de programación y seguridad
+- **SCADA/HMI:** Diseño de interfaces operador básicas
+
+### **Desarrollo y Diseño**
+- **Lenguajes:** Python (automatización), C++ (microcontroladores)
+- **Microcontroladores:** Arduino (desarrollo básico)
+- **Diseño CAD:** SolidWorks (modelado 3D, planos), AutoCAD Electrical
+- **Simulación:** MATLAB/Simulink (modelado de sistemas)
+
+### **Áreas de Especial Interés**
+- **Energía Solar Fotovoltaica** aplicada a automatización
+- **Sistemas de Seguimiento Solar** automatizados
+- **Eficiencia Energética** en procesos industriales
 
 ---
 
 ## 🎓 Formación Académica
 
 **Tecnología en Automatización y Robótica Industrial**  
-*Universidad ECCI, Bogotá*  
-📍 **Período:** 2023 – Julio 2026 (Último semestre en curso)  
-📊 **Estado:** Egresando Julio 2026
+*Universidad ECCI, Bogotá* | *2023 - Julio 2026 (Último semestre)*
 
-**Materias Actuales (5to Semestre):**
-- Automatización Industrial (Avanzada)
-- Robótica Industrial (Avanzada)
-- CAD/CAM
-- Emprendimiento I
-- Ecuaciones Diferenciales
-- Optativa de formación integrada
+
+**Proyecto Integrador en desarrollo:**  
+*Sistema automatizado de clasificación con controlado por PLC.*
 
 ---
 
-## 📌 Estado Académico Actual
+## 📌 Estado Actual
 
-![Último Semestre](https://img.shields.io/badge/Estudiante-Último_Semestre-success?style=flat-square)
-![Graduación 2026](https://img.shields.io/badge/Graduación-Julio_2026-blue?style=flat-square)
-![Buscando Prácticas](https://img.shields.io/badge/🔍_Buscando_Prácticas-FF6B35?style=flat-square)
+![Último Semestre](https://img.shields.io/badge/Académico-5°_Semestre_(Último)-orange)
+![Graduación](https://img.shields.io/badge/Graduación-Julio_2026-blue)
+![Disponibilidad](https://img.shields.io/badge/Disponibilidad-Prácticas/Media_Jornada-green)
 
 ---
 
-## 📫 ¡Hablemos!
+## 📫 Contacto y Disponibilidad
 
-**📍 Disponibilidad:**
-- **Prácticas/Media Jornada:** Inmediata (20-30 h/semana, flexible)
-- **Full-Time:** A partir de **Agosto 2026**
-- **Modalidad:** Presencial (Bogotá) | Híbrida | Remota
+**📅 Disponibilidad Inmediata:**
+- **Prácticas/Contrato de Aprendizaje:** 20-30 h/semana (Flexible)
+- **Modalidad:** Presencial (Bogotá) | Híbrida | Remota para tareas específicas
+- **Incorporación Full-Time:** Agosto 2026
 
-**📞 Contacto Directo:**
-- **Email:** [dbustos.proyectos@gmail.com](mailto:dbustos.proyectos@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- **WhatsApp/Telegram:** [+57 3023593525]
+**📞 Medios de Contacto:**
+- **Email:** dbustos.proyectos@gmail.com
+- **LinkedIn:** [linkedin.com/in/tu-perfil-real](https://linkedin.com/in/tu-perfil-real)
+- **Teléfono/WhatsApp:** +57 3023593525
+
+---
+
+## 🔗 Enlaces
+
+- **Portafolio Web:** [bustos-proyect.github.io](https://bustos-proyect.github.io)
+- **Repositorio Principal:** [github.com/bustos-proyect](https://github.com/bustos-proyect)
 
 ---
 
 <div align="center">
 
-### 🔄 **Contador de Días hasta la Graduación**
-![Días hasta Julio 2026](https://img.shields.io/badge/Días_para_graduarse-~150-dodgerblue?style=for-the-badge)
-
-
-
+*"Comprometido con la excelencia técnica y la innovación en automatización industrial"*
 
 </div>
